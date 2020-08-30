@@ -5,7 +5,7 @@ if speed < 40 || speed > 60
 	else
 		return false
 	end
-
+end
 
 
 
